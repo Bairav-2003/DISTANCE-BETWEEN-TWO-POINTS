@@ -6,7 +6,7 @@ To write a python program to find the distance two 2 points
 ### Step 1: start
 ### Step 2: import numpy as np
 ### Step 3: get a input for l1,l2 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](./formula.jpg)
 ### Step 4: print the value for  distance in 2 decimal points
 ### Step 5: stop
 ### PROGRAM:
